@@ -1,0 +1,10 @@
+{
+  "name": "meltmedia",
+  "version": "0.1.0",
+  "devDependencies": {
+    "grunt": "~0.4.2",
+    "grunt-connect": "^0.2.0",
+    "grunt-php": "^1.5.1",
+    "load-grunt-tasks": "^3.5.0"
+  }
+}
